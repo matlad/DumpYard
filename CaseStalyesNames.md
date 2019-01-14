@@ -7,9 +7,9 @@ Case styles names
 * snacke_case - all lower, world separator *_*
 * Upper_Snake_Case - ...
 * UpperCamelCase PascalCase - Every first letter of world(shortcut) upper, world separator *none*,
-''' diff
+``` diff
 - XMLHTTPResponse
 + XmlHttpResponse
-'''
+```
 
 * lowerCamelCase camelCase - Every first letter of world(shortcut) upper except very first one, world separator *none*, 
